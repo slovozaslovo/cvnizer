@@ -1,0 +1,16 @@
+# cvnizer.config.yaml — optional, local, personal. Put it in the directory you run
+# checks from (or pass --config PATH). The skill works without it.
+#
+# allow_terms: your organization's real vocabulary that the fluff/casual wordlists
+#   would otherwise flag. Exact phrases; a flagged word inside one of these is allowed.
+allow_terms:
+  - tiger teams             # example: an internal structure's actual name
+#
+# banned_claims: extra regex patterns that always FAIL — your personal hard rules,
+# e.g. claims you know overstate your role.
+banned_claims:
+  - 'single.?handedly'
+#
+# limits: per-block overrides when your CV format is tighter than the defaults.
+limits:
+  summary: {max_words: 100}
