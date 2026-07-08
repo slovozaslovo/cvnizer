@@ -67,6 +67,8 @@ for the checker.
 - **Claude Code:** `~/.claude/skills/cvnizer/`
 - **OpenAI Codex CLI:** `~/.codex/skills/cvnizer/` (or `.codex/skills/` per-project);
   Codex picks it up automatically — restart if it doesn't appear
+- **Cursor:** `<your-project>/.cursor/skills/cvnizer/` — project-scoped only; Cursor
+  has no global skills directory
 - Any harness supporting the [agentskills](https://agentskills.io) SKILL.md format
   works the same way
 

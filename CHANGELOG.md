@@ -3,6 +3,11 @@
 All notable changes to the cvnizer skill. Versioning: semver — MAJOR for scope
 changes, MINOR for new dimensions/references/mechanics, PATCH for fixes.
 
+## 2.3.3 — 2026-07-08
+
+- Docs: Cursor install path (`.cursor/skills/`, project-scoped). Same SKILL.md
+  standard, no code changes.
+
 ## 2.3.2 — 2026-07-08
 
 - Docs: install instructions for OpenAI Codex CLI (`~/.codex/skills/`) and any

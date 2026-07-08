@@ -1,6 +1,6 @@
 ---
 name: cvnizer
-version: 2.3.2
+version: 2.3.3
 description: Use when CV or resume prose needs to read like a strong senior/executive CV - when text sounds conversational, personal, AI-generated, fluffy, or runs long. Works on any CV block (summary, bullets, cover-letter paragraphs). Triggers include "run cvnizer", "cv-ify this", "does this sound like a director CV", "my resume sounds like ChatGPT", finalizing any CV section.
 ---
 
