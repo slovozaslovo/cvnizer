@@ -61,8 +61,14 @@ cvnizer with your own fact-check.
 
 ## Install
 
-Copy the `cvnizer/` directory into your agent's skills directory
-(e.g. `~/.claude/skills/cvnizer/` for Claude Code). Requires Python 3 for the checker.
+Copy the `cvnizer/` directory into your agent's skills directory. Requires Python 3
+for the checker.
+
+- **Claude Code:** `~/.claude/skills/cvnizer/`
+- **OpenAI Codex CLI:** `~/.codex/skills/cvnizer/` (or `.codex/skills/` per-project);
+  Codex picks it up automatically — restart if it doesn't appear
+- Any harness supporting the [agentskills](https://agentskills.io) SKILL.md format
+  works the same way
 
 ## Use
 

@@ -3,6 +3,11 @@
 All notable changes to the cvnizer skill. Versioning: semver — MAJOR for scope
 changes, MINOR for new dimensions/references/mechanics, PATCH for fixes.
 
+## 2.3.2 — 2026-07-08
+
+- Docs: install instructions for OpenAI Codex CLI (`~/.codex/skills/`) and any
+  agentskills-format harness. No code changes — the format was already compatible.
+
 ## 2.3.1 — 2026-07-08
 
 Security hardening after a skill-security audit (automated scan: WARN, 1 HIGH —
