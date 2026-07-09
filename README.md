@@ -2,10 +2,10 @@
 
 **The right words at the right size, for CVs.**
 
-Humanizer skills make AI text sound like a person. cvnizer solves the opposite problem
-nobody built a skill for: making CV text sound like a strong senior/executive CV —
-which is a *different* register. Pronoun-free. Direct, factual, commercial. Dense.
-Deliberately unconversational. And the right length, measured, not eyeballed.
+Cvnizer makes your CV text sound like a strong senior/executive CV. 
+Pronoun-free, direct, factual, commercial. 
+Dense.
+Deliberately unconversational. And the right length, precicely measured.
 
 An [agent skill](https://agentskills.io) for Claude Code and compatible harnesses.
 
